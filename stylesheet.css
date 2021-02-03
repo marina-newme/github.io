@@ -1,0 +1,86 @@
+body {
+    font-family: 'Hiragino Kaku Gothic ProN','ヒラギノ角ゴ ProN W3',sans-serif;
+    margin: 0 auto;
+    text-align: center;
+    padding: 0;
+    font-size: 25px;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+header {
+    text-align: left;
+    padding-left: 10px;
+}
+.main {
+    background-image: url(img/1613711.png);
+    background-size: cover;
+    letter-spacing: 2px;
+}
+.main-containts {
+    height: 100%;
+    background: rgba(255, 255, 255,0.4);
+}
+.white {
+}
+.title-wrapper img {
+    width: 60%;
+    height: 30%;
+}
+.main-container {
+}
+.main-container p {
+}
+.Date-and-time {
+    height: 250px;
+    color: #5f5d60;
+}
+.Date-and-time h3 {
+    height: 250px;
+    float: left;
+}
+.Date-and-time li {
+    list-style: none;
+    padding-bottom: 10px;
+}
+.Date-and-time span {
+    color: rgb(230, 140, 140);
+}
+.sub-container {
+    padding-bottom: 5%;
+    font-size: 20px;
+    color: #5f5d60;
+    border-bottom: 1px solid #eee;
+}
+.foot-wrapper {
+    padding-bottom: 20px;
+    font-size: 20px;
+}
+.btn {
+    border-radius: 4px;
+    display: inline-block;
+    padding: 10px 20px;
+    color: white;
+    letter-spacing: 3px;
+}
+.btn:hover {
+    opacity: 0.8;
+}
+.foot-wrapper p {
+    padding-top: 20px;
+    color: #5f5d60;
+}
+.reservation {
+    background-color: rgb(255, 123, 211);
+    width: 40%;
+    font-size: 25px;
+}
+.Instagram {
+    background-color: blueviolet;
+    margin: 0 5px;
+}
+.Mail {
+    background-color: rgb(90, 196, 214);
+    margin: 0 5px;
+}
